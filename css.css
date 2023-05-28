@@ -1,0 +1,23 @@
+body {
+	font-family: 'Roboto';font-size: 20px;
+    background: #87cefa;
+	background-image: url("fotohd.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	color: white;
+}
+h1 {
+	text-align: center;
+}
+p {
+	margin-right: 150px;
+	margin-left: 150px;
+	text-indent: 50px;
+}
+img {
+    display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 30%;
+}
